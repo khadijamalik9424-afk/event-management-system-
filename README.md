@@ -4,44 +4,26 @@ web development project  (backend &amp; frontend are both deployed)
 
 A full-stack Event Management System built with a **NestJS** backend and a **Next.js** frontend, featuring dedicated modules for managing weddings, event details, and user workflows.
 
-🌟** System Features**
-🔐 User Authentication & Roles: Secure login and registration system with role-based access (e.g., Admin, Event Planner, or Client) to control permissions.
 
-💒 Wedding & Event Management:
+✨ Features
+🔐 User Authentication & Roles: Secure login and registration system with role-based access control (Admin, Planner, Client).
 
-Create, update, view, and delete wedding profiles or event details.
+💒 Wedding & Event Management: Full CRUD (Create, Read, Update, Delete) support for wedding profiles, schedules, venues, and event specifics.
 
-Manage event dates, timelines, venues, and descriptions easily.
+👥 Guest List & RSVP Tracking: Manage guest categories (Family, VIPs, Friends) and track real-time RSVP statuses.
 
-👥 Guest List & RSVP Tracking:
+💰 Budget & Expense Tracker: Set total event budgets, monitor individual expenses (catering, decor, venues), and track payments.
 
-Add and categorize guests (Family, Friends, VIPs).
+📸 Vendor & Service Management: Keep track of third-party vendors, contracts, contact information, and service details.
 
-Track RSVP statuses (Confirmed, Pending, Declined) and manage headcounts.
+📊 Interactive Dashboard: Responsive dashboard providing quick overviews of upcoming events, guest counts, and financial summaries.
 
-💰 Budget & Expense Tracker:
+⚡ Robust Backend APIs: Scalable architecture built with NestJS leveraging structured DTOs, controllers, and services.
 
-Set total event budgets and track individual expenses (decor, venue, catering, etc.).
+🎨 Modern UI/UX: Clean, responsive user interface styled with Tailwind CSS across all screen sizes.
 
-Monitor remaining balances and payments in real-time.
 
-📸 Vendor & Service Management:
 
-Manage third-party vendors like photographers, caterers, decorators, and DJs.
-
-Store vendor contact details, contracts, and payment terms.
-
-📊 Interactive Dashboard:
-
-A modern, responsive dashboard providing a quick overview of upcoming events, total guests, and financial summaries.
-
-⚡ RESTful APIs & Scalability:
-
-Robust backend built with NestJS supporting structured DTOs, controllers, and database integration.
-
-🎨 Modern UI/UX:
-
-Clean, fast, and responsive user interface built using Next.js and styled with Tailwind CSS for seamless mobile and desktop usage.
 ## 🛠️ Tech Stack
 
 * **Backend:** [NestJS](https://nestjs.com/) (TypeScript, REST APIs, Modular Architecture)
