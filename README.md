@@ -3,7 +3,8 @@ web development project  (backend &amp; frontend are both deployed)
 # Event Management System
 
 A full-stack Event Management System built with a **NestJS** backend and a **Next.js** frontend, featuring dedicated modules for managing weddings, event details, and user workflows.
-🌟 System Features
+
+🌟** System Features**
 🔐 User Authentication & Roles: Secure login and registration system with role-based access (e.g., Admin, Event Planner, or Client) to control permissions.
 
 💒 Wedding & Event Management:
